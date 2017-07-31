@@ -7,11 +7,5 @@ layout: null
     <title>RSS</title>
     <description>{{ site.description | xml_escape }}</description>
     <link>https://myluc2000.github.io/</link>
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>  
-      </item>
-    {% endfor %}
   </channel>
 </rss>
