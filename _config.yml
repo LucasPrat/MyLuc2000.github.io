@@ -17,3 +17,5 @@ github_username:  MyLuc2000
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-hacker
