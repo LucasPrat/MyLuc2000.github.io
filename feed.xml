@@ -5,7 +5,12 @@ layout: null
 <rss version="2.0"     
   <channel>
     <title>RSS</title>
-    <description>{{ site.description | xml_escape }}</description>
+    <description>RSS sencillo</description>
     <link>https://myluc2000.github.io/</link>
+  <item>
+    <title>Definición de RSS</title>
+    <link>https://myluc2000.github.io/</link>
+    <description>La definición del RSS sencilla e intuitiva</description>
+  </item>
   </channel>
 </rss>
