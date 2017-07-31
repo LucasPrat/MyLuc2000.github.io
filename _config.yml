@@ -7,13 +7,13 @@
 
 # Site settings
 title: Lucas Prat Campoy
-email: your-email@domain.com
+email:lucaspratcampoy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  This is an example of a personal web page done it with Github
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyll
-github_username:  jekyll
+twitter_username: MyLuc2000
+github_username:  MyLuc2000
 
 # Build settings
 markdown: kramdown
