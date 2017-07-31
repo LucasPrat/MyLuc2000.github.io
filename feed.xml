@@ -10,9 +10,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
- 
-       
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>  
       </item>
     {% endfor %}
   </channel>
