@@ -4,4 +4,4 @@ title: Media
 permalink: /media/
 ---
 <br>
-<a href="/music">Music</a>
+<a href="https://myluc2000.github.io/music/">Music</a>
