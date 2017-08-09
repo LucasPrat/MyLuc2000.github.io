@@ -3,5 +3,5 @@ layout: page
 title: Media
 permalink: /media/
 ---
-
-<h2>Page under construction!!</h2>
+<br>
+<a href="MyLuc2000.github.io/music.html/">Music</a>
