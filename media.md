@@ -4,4 +4,4 @@ title: Media
 permalink: /media/
 ---
 <br>
-<a href="/music.html/">Music</a>
+<a href="/music/">Music</a>
